@@ -73,10 +73,10 @@ You can try out the app by downloading the latest APK from the link below:
 ## 📸 Screenshots
 
 ### 🔹 Home Screen
-<img src="screenshots/home_screen.jpeg" alt="Home Screen" width="300" height="450"/>
+<img src="screenshots/home_screen.jpeg" alt="Home Screen" width="100" height="150"/>
 
 ### 🔹 Anime Details
-<img src="screenshots/anime_details_screen.jpeg" alt="Anime Details Screen" width="300" height="450"/>
+<img src="screenshots/anime_details_screen.jpeg" alt="Anime Details Screen" width="100" height="150"/>
 
 ---
 
