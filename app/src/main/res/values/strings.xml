@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Parithi Seekho</string>
+
+    <string name="connection_error_msg">The network seems to be disconnected or slow. Check the connection or try again later</string>
+    <string name="connection_timeout_msg">Server couldn\'t be reached. Please check the network connection.</string>
+    <string name="connection_illegal_state_exception_msg">Error in getting content. Please contact support team.</string>
+    <string name="api_failure_msg">Oops! Something went wrong. Please try again.</string>
+</resources>
